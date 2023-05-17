@@ -28,7 +28,6 @@ export default function Home() {
                 <Calendar trabalhos={trabalhos()} />
               </Match>
             </Switch>
-            {/* <For each={trabalhos()}>{trabalho => <p>{trabalho.nome}</p>}</For> */}
           </div>
           <div class="w-full">
             <Birthdates />
