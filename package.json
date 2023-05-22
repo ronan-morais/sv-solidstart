@@ -24,8 +24,6 @@
     "solid-start": "^0.2.26",
     "swiper": "^9.3.1",
     "undici": "^5.15.1"
-  },
-  "engines": {
-    "node": ">=16"
   }
 }
+
