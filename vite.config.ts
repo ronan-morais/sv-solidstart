@@ -9,3 +9,4 @@ function vercel(): string | import("solid-start/vite").Adapter | undefined {
   throw new Error("Function not implemented.");
 }
 
+
